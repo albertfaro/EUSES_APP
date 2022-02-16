@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+	<English>
+		<string name="ToLogin">Login</string>
+     	<string name="LogoutButton">Log Out</string>
+		<string name="CreditsButton">Credits</string>
+		<string name="RegisterButton">Register</string>
+		
+	</English>
+
+	<Spanish>
+		<string name="ToLogin">Iniciar Sesión</string>
+		<string name="LogoutButton">Cerrar Sesión</string>
+		<string name="CreditsButton">Créditos</string>
+		<string name="RegisterButton">Registrar</string>
+	</Spanish>
+
+	<Catalan>
+		<string name="ToLogin">Iniciar sessió</string>
+		<string name="LogoutButton">Tancar sessió</string>
+		<string name="CreditsButton">Credits</string>
+		<string name="RegisterButton">Registrar</string>
+	</Catalan>
+</languages>
