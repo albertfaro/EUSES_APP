@@ -122,7 +122,7 @@ public class EditorMenuScript : MonoBehaviour
         MongoScript.Instance.updateProfile();
 
         // SALIR DEL MENÚ DE EDICIÓN
-        SceneManager.LoadScene(3);
+        SceneManager.LoadScene("PreGame",LoadSceneMode.Single);
     }
 
     public void onEditHair(int id)

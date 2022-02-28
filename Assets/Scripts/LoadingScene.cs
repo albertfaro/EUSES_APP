@@ -7,6 +7,6 @@ public class LoadingScene : MonoBehaviour
 {
     void Start()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene("AnimSC", LoadSceneMode.Single);
     }
 }

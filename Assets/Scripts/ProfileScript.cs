@@ -34,7 +34,7 @@ public class ProfileScript : MonoBehaviour
         AppManager.Instance.currentProfile = profile;
 
         Debug.Log(AppManager.Instance.currentProfile.ProfileName);
-        SceneManager.LoadScene(3);
+        SceneManager.LoadScene("PreGame",LoadSceneMode.Single);
     }
 
     private void editProfile()

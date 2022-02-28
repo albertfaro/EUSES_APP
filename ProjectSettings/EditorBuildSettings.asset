@@ -19,7 +19,7 @@ EditorBuildSettings:
     guid: d6683e227f133ff4aa588cca44aac1da
   - enabled: 1
     path: Assets/Scenes/Settings.unity
-    guid: 2157ddcfd96077e488a7cffb1f727165
+    guid: c1e1dc8655a71414bbe4e16520b8a79c
   - enabled: 1
     path: Assets/Scenes/CharacterEditor.unity
     guid: 221c23f2782e9b240b2c8b487b24644c
@@ -29,4 +29,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CreateProfile.unity
     guid: bf866b016df0083478d9ca260e0c2655
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 8ea2b4cbfcacaca43b4c3e8d93abf98c
+  - enabled: 1
+    path: Assets/Scenes/AnimSc.unity
+    guid: aa9b4d7068521a54594a9a4718f42fe6
+  - enabled: 1
+    path: Assets/Scenes/SettingsMM.unity
+    guid: f80d6481bce097f469a4fafc2251eb59
+  - enabled: 1
+    path: Assets/Scenes/PreGame.unity
+    guid: 85d84a45013b8c2429954c07b7c870c6
   m_configObjects: {}

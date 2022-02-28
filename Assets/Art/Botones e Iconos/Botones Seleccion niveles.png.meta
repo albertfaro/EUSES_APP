@@ -1,0 +1,401 @@
+fileFormatVersion: 2
+guid: 0c72b3fd6ac129f4eac53a21b9099283
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2953079202192908970
+    second: Botones Seleccion niveles_0
+  - first:
+      213: -7795470348388525151
+    second: Botones Seleccion niveles_1
+  - first:
+      213: -1686490083179594904
+    second: Botones Seleccion niveles_2
+  - first:
+      213: -3034001255900228529
+    second: Botones Seleccion niveles_3
+  - first:
+      213: 7726988058324234292
+    second: Botones Seleccion niveles_4
+  - first:
+      213: -4040676048970102356
+    second: Botones Seleccion niveles_5
+  - first:
+      213: -112829037594393999
+    second: Botones Seleccion niveles_6
+  - first:
+      213: -4991900026818179583
+    second: Botones Seleccion niveles_7
+  - first:
+      213: 3032041027027568710
+    second: Botones Seleccion niveles_8
+  - first:
+      213: -5688505056029979997
+    second: Botones Seleccion niveles_9
+  - first:
+      213: -6801845209841849993
+    second: Botones Seleccion niveles_10
+  - first:
+      213: 2555866703574193069
+    second: Botones Seleccion niveles_11
+  - first:
+      213: 3570492916512282709
+    second: Botones Seleccion niveles_12
+  - first:
+      213: -1137325322302132351
+    second: Botones Seleccion niveles_13
+  - first:
+      213: 4686908452637564834
+    second: Botones Seleccion niveles_14
+  - first:
+      213: 6934787316830608239
+    second: Botones Seleccion niveles_15
+  - first:
+      213: -8441550462089988581
+    second: Botones Seleccion niveles_16
+  - first:
+      213: 8418374872143064590
+    second: Botones Seleccion niveles_17
+  - first:
+      213: -2290518134422848467
+    second: Botones Seleccion niveles_18
+  - first:
+      213: -8748752853668349152
+    second: Botones Seleccion niveles_19
+  - first:
+      213: -5140846049169925666
+    second: Botones Seleccion niveles_20
+  - first:
+      213: 5169900697844413802
+    second: Botones Seleccion niveles_21
+  - first:
+      213: -406997434472189450
+    second: Botones Seleccion niveles_22
+  - first:
+      213: 3624945486669376389
+    second: Botones Seleccion niveles_23
+  - first:
+      213: 7921324886263180916
+    second: Botones Seleccion niveles_24
+  - first:
+      213: 8958454249396354994
+    second: Botones Seleccion niveles_25
+  - first:
+      213: 2653650508836999381
+    second: Botones Seleccion niveles_26
+  - first:
+      213: 1723512648953020496
+    second: Botones Seleccion niveles_27
+  - first:
+      213: 4314959136884672029
+    second: Botones Seleccion niveles_28
+  - first:
+      213: 2641323612323279065
+    second: Botones Seleccion niveles_29
+  - first:
+      213: 1346791619133693795
+    second: Botones Seleccion niveles_30
+  - first:
+      213: -4072619523949786503
+    second: Botones Seleccion niveles_31
+  - first:
+      213: -3439082976551895153
+    second: Botones Seleccion niveles_32
+  - first:
+      213: 8358082304024790923
+    second: Botones Seleccion niveles_33
+  - first:
+      213: -8149330567595027466
+    second: Botones Seleccion niveles_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Botones Seleccion niveles_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 615
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa26d4863e17bf820800000000000000
+      internalID: 2953079202192908970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botones Seleccion niveles_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 605
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab1633350de0d390800000000000000
+      internalID: -7795470348388525151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botones Seleccion niveles_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 608
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b7cda64326898e0800000000000000
+      internalID: -1686490083179594904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botones Seleccion niveles_3
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 582
+        width: 377
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f445afdbeef05e5d0800000000000000
+      internalID: -3034001255900228529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botones Seleccion niveles_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 443
+        width: 209
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430f91023b6cb3b60800000000000000
+      internalID: 7726988058324234292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botones Seleccion niveles_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 455
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55853c9e360fc8130800000000000000
+      internalID: 3570492916512282709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botones Seleccion niveles_13
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 455
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fef1a25a86730f0800000000000000
+      internalID: -1137325322302132351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botones Seleccion niveles_29
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 452
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d07161c4ddd7a420800000000000000
+      internalID: 2641323612323279065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dd8414255754f9d4bba0840465f08889
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

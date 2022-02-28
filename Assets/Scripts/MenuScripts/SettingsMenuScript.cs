@@ -9,6 +9,11 @@ public class SettingsMenuScript : MonoBehaviour
     {
         SceneManager.LoadScene(3);
     }
+
+    public void MMOnbackClicked()
+    {
+        SceneManager.LoadScene("MainMenu", LoadSceneMode.Single);
+    }
     public void onLogOutClicked()
     {
         AppManager.Instance.currentUser = new User_Model();

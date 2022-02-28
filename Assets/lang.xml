@@ -5,20 +5,72 @@
      	<string name="LogoutButton">Log Out</string>
 		<string name="CreditsButton">Credits</string>
 		<string name="RegisterButton">Register</string>
+		<string name="PlayButton">Play</string>
+		<string name="SettingsButton">Settings</string>
+		<string name="QuitButton">Quit</string>
+		<string name="CustomizeText">Appearance</string>
+		<string name="LoginTitle">Log In</string>
+		<string name="RegisterTitle">Register</string>
+		<string name="UsernameInputField">Username</string>
+		<string name="PasswordInputField">Password</string>
+		<string name="TravelButton">Travel</string>
+		<string name="StyleButton">Style</string>
+		<string name="Correr">Style</string>
+		<string name="SaltAPeusJunts">Style</string>
+		<string name="DesplacLateral">Style</string>
+		<string name="Llancament">Style</string>
+		<string name="Recepcio">Style</string>
+		<string name="SaltAPeuCoix">Style</string>
+		<string name="Xutar">Style</string>
+		
 		
 	</English>
 
 	<Spanish>
-		<string name="ToLogin">Iniciar Sesión</string>
-		<string name="LogoutButton">Cerrar Sesión</string>
-		<string name="CreditsButton">Créditos</string>
+		<string name="ToLogin">Iniciar</string>
+		<string name="LogoutButton">Desconectar</string>
+		<string name="CreditsButton">Creditos</string>
 		<string name="RegisterButton">Registrar</string>
+		<string name="PlayButton">Jugar</string>
+		<string name="SettingsButton">Opciones</string>
+		<string name="QuitButton">Salir</string>
+		<string name="CustomizeText">Aspecto</string>
+		<string name="LoginTitle">Iniciar Sesion</string>
+		<string name="RegisterTitle">Registro</string>
+		<string name="UsernameInputField">Usuario</string>
+		<string name="PasswordInputField">Contraseña</string>
+		<string name="TravelButton">Viajar</string>
+		<string name="StyleButton">Estilo</string>
+		<string name="Correr">Correr</string>
+		<string name="SaltAPeusJunts">Salto con pies juntos</string>
+		<string name="DesplacLateral">Desplazamiento lateral</string>
+		<string name="Llancament">Lanzamiento</string>
+		<string name="Recepcio">Recepcion</string>
+		<string name="SaltAPeuCoix">Salto a la pata coja</string>
+		<string name="Xutar">Chutar</string>
 	</Spanish>
 
 	<Catalan>
-		<string name="ToLogin">Iniciar sessió</string>
-		<string name="LogoutButton">Tancar sessió</string>
+		<string name="ToLogin">Iniciar</string>
+		<string name="LogoutButton">Desconnectar</string>
 		<string name="CreditsButton">Credits</string>
 		<string name="RegisterButton">Registrar</string>
+		<string name="PlayButton">Jugar</string>
+		<string name="SettingsButton">Opcions</string>
+		<string name="QuitButton">Sortir</string>
+		<string name="CustomizeText">Aspecte</string>
+		<string name="LoginTitle">Iniciar Sessio</string>
+		<string name="RegisterTitle">Registrar</string>
+		<string name="UsernameInputField">Usuari</string>
+		<string name="PasswordInputField">Contrassenya</string>
+		<string name="TravelButton">Viatjar</string>
+		<string name="StyleButton">Estil</string>
+		<string name="Correr">Correr</string>
+		<string name="SaltAPeusJunts">Salt a peus junts</string>
+		<string name="DesplacLateral">Desplaçament Lateral</string>
+		<string name="Llancament">Llançament</string>
+		<string name="Recepcio">Recepcio</string>
+		<string name="SaltAPeuCoix">Salt a peu coix</string>
+		<string name="Xutar">Xutar</string>
 	</Catalan>
 </languages>

@@ -8,7 +8,7 @@ public class WorldInfoScript : MonoBehaviour
     public List<string> WorldNames;
     public List<GameObject> Planetas;
     private int currentSelection = 1;
-
+    string nameWorld;
     public TextMeshProUGUI WorldName;
 
     private void Start()
@@ -28,7 +28,8 @@ public class WorldInfoScript : MonoBehaviour
     public void ShowCurrentInfo() {
 
         //WorldName.text = WorldNames[currentSelection - 1];
-        WorldName.text = Planetas[currentSelection - 1].name;
+        nameWorld = Planetas[currentSelection - 1].name;
+        WorldName.text = AppManager.language.getString(nameWorld);
         WorldName.color = Planetas[currentSelection - 1].GetComponentInChildren<MeshRenderer>().material.color;
 
         WorldName.CrossFadeAlpha(1f, 1f, false);
