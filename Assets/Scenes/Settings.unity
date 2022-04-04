@@ -1825,6 +1825,8 @@ MonoBehaviour:
       m_Image: {fileID: 0}
     - m_Text: CAT
       m_Image: {fileID: 0}
+    - m_Text: FRA
+      m_Image: {fileID: 0}
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:

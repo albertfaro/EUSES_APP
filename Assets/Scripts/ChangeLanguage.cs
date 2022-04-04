@@ -23,6 +23,11 @@ public class ChangeLanguage : MonoBehaviour
         {
             AppManager.language.setLanguage(Path.Combine(Application.dataPath, "lang.xml"), "Catalan");
         }
+        
+        if(val == 3)
+        {
+            AppManager.language.setLanguage(Path.Combine(Application.dataPath, "lang.xml"), "French");
+        }
 
     }
 }

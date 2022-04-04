@@ -73,4 +73,29 @@
 		<string name="SaltAPeuCoix">Salt a peu coix</string>
 		<string name="Xutar">Xutar</string>
 	</Catalan>
+	
+	<French>
+		<string name="ToLogin">Demarrer</string>
+		<string name="LogoutButton">Desconnectar</string>
+		<string name="CreditsButton">Credits</string>
+		<string name="RegisterButton">Enregistrer</string>
+		<string name="PlayButton">Jouer</string>
+		<string name="SettingsButton">Options</string>
+		<string name="QuitButton">Sortir</string>
+		<string name="CustomizeText">Apparence</string>
+		<string name="LoginTitle">Iniciar Sessio</string>
+		<string name="RegisterTitle">Enregistrer</string>
+		<string name="UsernameInputField">Usager</string>
+		<string name="PasswordInputField">Mot de passe</string>
+		<string name="TravelButton">Voyager</string>
+		<string name="StyleButton">Style</string>
+		<string name="Correr">Courir</string>
+		<string name="SaltAPeusJunts">Salt a peus junts</string>
+		<string name="DesplacLateral">Desplaçament Lateral</string>
+		<string name="Llancament">Llançament</string>
+		<string name="Recepcio">Recepcio</string>
+		<string name="SaltAPeuCoix">Salt a peu coix</string>
+		<string name="Xutar">Tirer</string>
+	</French>
+	
 </languages>
