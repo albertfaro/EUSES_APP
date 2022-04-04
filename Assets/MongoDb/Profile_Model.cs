@@ -21,4 +21,7 @@ public class Profile_Model
 
     public int id_hair_boy_selected { set; get; }
     public int id_hair_girl_selected { set; get; }
+    public int id_pants_selected { set; get; }
+
+    public int id_shirts_selected { set; get; }
 }

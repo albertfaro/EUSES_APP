@@ -20,23 +20,29 @@ public class EditorMenuScript : MonoBehaviour
     public GameObject InvPeloGirl;
     public GameObject InvPeloBoy;
 
+
+    
+
     public List<Material> MSkin;
     public List<serializableClass> MPeloGirl = new List<serializableClass>();
     public List<serializableClass> MPeloBoy = new List<serializableClass>();
-    public List<Material> MCamiseta;
-    public List<Material> MPantalon;
+    public List<serializableClass> MPantalon = new List<serializableClass>();
+    public List<serializableClass> MCamiseta = new List<serializableClass>();
     public List<Material> MBambas;
     public List<Material> MOjos;
 
     public GameObject Skin;
-    public GameObject Camiseta;
-    public GameObject Pantalones;
+    //public GameObject Camiseta;
+    //public GameObject Pantalones;
     public GameObject Ojos;
     public List<GameObject> LBambas;
     public List<GameObject> LPeloGirl;
+    public List<GameObject> pants;
+    public List<GameObject> shirts;
     public GameObject peloGirl5flipped;
     public List<GameObject> LPeloBoy;
-
+    private int currentPantsId;
+    private int currentShirtsId;
 
     private Color selectedColor = new Color32(117, 255, 232, 255);
 
@@ -45,6 +51,11 @@ public class EditorMenuScript : MonoBehaviour
         updateSkinGenderSelectors();
         updateInventarios(Botones[0]);
         updateMaterials();
+        currentPantsId = 0;
+        pants[currentPantsId].SetActive(true);
+
+        currentShirtsId = 0;
+        shirts[currentShirtsId].SetActive(true);
     }
 
     public void onButtonClicked(GameObject self)
@@ -161,12 +172,6 @@ public class EditorMenuScript : MonoBehaviour
         // UPDATE SKIN
         Skin.GetComponent<SkinnedMeshRenderer>().material = MSkin[AppManager.Instance.currentProfile.id_skin];
 
-        // UPDATE CAMISETA
-        Camiseta.GetComponent<SkinnedMeshRenderer>().material = MCamiseta[AppManager.Instance.currentProfile.id_camiseta];
-
-        // UPDATE PANTALONES
-        Pantalones.GetComponent<SkinnedMeshRenderer>().material = MPantalon[AppManager.Instance.currentProfile.id_pantalon];
-
         // UPDATE OJOS
         //Ojos.GetComponent<SkinnedMeshRenderer>().materials[0] = MSkin[AppManager.Instance.currentProfile.id_eyes];
 
@@ -198,6 +203,26 @@ public class EditorMenuScript : MonoBehaviour
             peloB.GetComponent<SkinnedMeshRenderer>().material = MPeloBoy[p_b].Materials[AppManager.Instance.currentProfile.id_hair];
             p_b++;
         }
+
+        //UPDATE PANTALONES
+
+        int pnt = 0;
+        foreach (var pant in pants)
+        {
+            pant.GetComponent<SkinnedMeshRenderer>().material = MPantalon[pnt].Materials[AppManager.Instance.currentProfile.id_pantalon];
+            pnt++;
+        }
+
+
+        //UPDATE CAMISETAS
+
+        int shr = 0;
+        /*foreach (var shirt in shirts)
+        {
+            shirt.GetComponent<SkinnedMeshRenderer>().material = MCamiseta[shr].Materials[AppManager.Instance.currentProfile.id_camiseta];
+            shr++;
+        }*/
+
     }
 
     private void updateGender()
@@ -269,6 +294,30 @@ public class EditorMenuScript : MonoBehaviour
     {
         AppManager.Instance.currentProfile.id_hair_girl_selected = id;
         updateMaterials();
+    }
+
+    public void onChangePants(int id)
+    {
+        /*AppManager.Instance.currentProfile.id_pants_selected = id;
+
+        updateMaterials();*/
+        pants[currentPantsId].SetActive(false);
+        currentPantsId = id;
+        pants[id].SetActive(true);
+        
+
+    }
+
+    public void onChangeShirts(int id)
+    {
+        /*AppManager.Instance.currentProfile.id_pants_selected = id;
+
+        updateMaterials();*/
+        shirts[currentShirtsId].SetActive(false);
+        currentShirtsId = id;
+        shirts[id].SetActive(true);
+
+
     }
 
     private void updateSkinGenderSelectors()
