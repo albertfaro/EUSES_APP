@@ -41,4 +41,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PreGame.unity
     guid: 85d84a45013b8c2429954c07b7c870c6
+  - enabled: 1
+    path: Assets/Scenes/Planets/Correr/Correr.unity
+    guid: d98be2bd777f80a429a89ee4cf294f94
   m_configObjects: {}

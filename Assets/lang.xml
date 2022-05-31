@@ -15,13 +15,22 @@
 		<string name="PasswordInputField">Password</string>
 		<string name="TravelButton">Travel</string>
 		<string name="StyleButton">Style</string>
-		<string name="Correr">Style</string>
-		<string name="SaltAPeusJunts">Style</string>
-		<string name="DesplacLateral">Style</string>
-		<string name="Llancament">Style</string>
-		<string name="Recepcio">Style</string>
-		<string name="SaltAPeuCoix">Style</string>
-		<string name="Xutar">Style</string>
+		<string name="Correr">Run</string>
+		<string name="SaltAPeusJunts">Jumping</string>
+		<string name="DesplacLateral">LateralMovement</string>
+		<string name="Llancament">Throwing</string>
+		<string name="Recepcio">Receiving</string>
+		<string name="SaltAPeuCoix">OneLegJump</string>
+		<string name="Xutar">Shoot</string>
+		<string name="ACorrer">Let's Run!</string>
+		<string name="Volver">Back</string>
+		<string name="YoudidWell">You did well!</string>
+		<string name="NeedToImprove">Need to improve!</string>
+		<string name="SalirDelPlaneta">Exit the planet</string>
+		<string name="VolverACorrer">Run again</string>
+		<string name="CongratsCamp">Congratulations!</string>
+		<string name="QueHiceMal">What did go wrong?</string>
+		<string name="ComoSolucionarlo">How to solve it</string>
 		
 		
 	</English>
@@ -48,6 +57,15 @@
 		<string name="Recepcio">Recepcion</string>
 		<string name="SaltAPeuCoix">Salto a la pata coja</string>
 		<string name="Xutar">Chutar</string>
+		<string name="ACorrer">A Correr!</string>
+		<string name="Volver">Volver</string>
+		<string name="YoudidWell">Bien hecho!</string>
+		<string name="NeedToImprove">Hay que mejorar!</string>
+		<string name="SalirDelPlaneta">Salir del planeta</string>
+		<string name="VolverACorrer">Volver a correr</string>
+		<string name="CongratsCamp">Enhorabuena!</string>
+		<string name="QueHiceMal">Que hice mal?</string>
+		<string name="ComoSolucionarlo">Como solucionarlo</string>
 	</Spanish>
 
 	<Catalan>
@@ -72,6 +90,15 @@
 		<string name="Recepcio">Recepcio</string>
 		<string name="SaltAPeuCoix">Salt a peu coix</string>
 		<string name="Xutar">Xutar</string>
+		<string name="ACorrer">A Correr!</string>
+		<string name="Volver">Tornar</string>
+		<string name="YoudidWell">Bona feina!</string>
+		<string name="NeedToImprove">S'ha de millorar!</string>
+		<string name="SalirDelPlaneta">Sortir del planeta</string>
+		<string name="VolverACorrer">Tornar a correr</string>
+		<string name="CongratsCamp">Enhorabona!</string>
+		<string name="QueHiceMal">Que he fet malament?</string>
+		<string name="ComoSolucionarlo">Com solucionar-ho</string>
 	</Catalan>
 	
 	<French>
@@ -96,6 +123,15 @@
 		<string name="Recepcio">Recepcio</string>
 		<string name="SaltAPeuCoix">Salt a peu coix</string>
 		<string name="Xutar">Tirer</string>
+		<string name="ACorrer">Courir!</string>
+		<string name="Volver">Revenir</string>
+		<string name="YoudidWell">Bien fait!</string>
+		<string name="NeedToImprove">Regulier!</string>
+		<string name="SalirDelPlaneta">Sortir</string>
+		<string name="VolverACorrer">Courir a nouveau</string>
+		<string name="CongratsCamp">Felicitacions!</string>
+		<string name="QueHiceMal">J'ai eu tort?</string>
+		<string name="ComoSolucionarlo">La solution</string>
 	</French>
 	
 </languages>

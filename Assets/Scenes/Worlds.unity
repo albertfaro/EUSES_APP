@@ -147,6 +147,16 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: planetPressed
       objectReference: {fileID: 0}
+    - target: {fileID: 4331765762139047240, guid: a8168647cb629e34bbe9da8f45574449,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4331765762139047240, guid: a8168647cb629e34bbe9da8f45574449,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: SaltPeuCoix
+      objectReference: {fileID: 0}
     - target: {fileID: 4331765763843554184, guid: a8168647cb629e34bbe9da8f45574449,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -359,6 +369,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: planetPressed
+      objectReference: {fileID: 0}
+    - target: {fileID: 4331765762139047240, guid: a8168647cb629e34bbe9da8f45574449,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4331765762139047240, guid: a8168647cb629e34bbe9da8f45574449,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: "Llan\xE7ament"
       objectReference: {fileID: 0}
     - target: {fileID: 4331765763843554184, guid: a8168647cb629e34bbe9da8f45574449,
         type: 3}
@@ -923,6 +943,16 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: planetPressed
       objectReference: {fileID: 0}
+    - target: {fileID: 4331765762139047240, guid: a8168647cb629e34bbe9da8f45574449,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4331765762139047240, guid: a8168647cb629e34bbe9da8f45574449,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: DesplacLateral
+      objectReference: {fileID: 0}
     - target: {fileID: 4331765763843554184, guid: a8168647cb629e34bbe9da8f45574449,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -1251,6 +1281,16 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: planetPressed
       objectReference: {fileID: 0}
+    - target: {fileID: 4331765762139047240, guid: a8168647cb629e34bbe9da8f45574449,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4331765762139047240, guid: a8168647cb629e34bbe9da8f45574449,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: Xutar
+      objectReference: {fileID: 0}
     - target: {fileID: 4331765763843554184, guid: a8168647cb629e34bbe9da8f45574449,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -1371,6 +1411,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: planetPressed
+      objectReference: {fileID: 0}
+    - target: {fileID: 4331765762139047240, guid: a8168647cb629e34bbe9da8f45574449,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4331765762139047240, guid: a8168647cb629e34bbe9da8f45574449,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: Recepcio
       objectReference: {fileID: 0}
     - target: {fileID: 4331765763843554184, guid: a8168647cb629e34bbe9da8f45574449,
         type: 3}
@@ -1759,6 +1809,7 @@ MonoBehaviour:
   - {fileID: 481099111}
   - {fileID: 1920458608}
   - {fileID: 468025169}
+  planetToLoad: 
   wiScript: {fileID: 1774457409}
   swipeControls: {fileID: 1589851974}
   planetExiting: 0
@@ -1789,6 +1840,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: planetPressed
+      objectReference: {fileID: 0}
+    - target: {fileID: 4331765762139047240, guid: a8168647cb629e34bbe9da8f45574449,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4331765762139047240, guid: a8168647cb629e34bbe9da8f45574449,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: SaltPeusJunts
       objectReference: {fileID: 0}
     - target: {fileID: 4331765763843554184, guid: a8168647cb629e34bbe9da8f45574449,
         type: 3}
@@ -1887,6 +1948,16 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1992442206}
+    - target: {fileID: 4331765762139047240, guid: a8168647cb629e34bbe9da8f45574449,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4331765762139047240, guid: a8168647cb629e34bbe9da8f45574449,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: Correr
+      objectReference: {fileID: 0}
     - target: {fileID: 4331765763843554293, guid: a8168647cb629e34bbe9da8f45574449,
         type: 3}
       propertyPath: m_Name

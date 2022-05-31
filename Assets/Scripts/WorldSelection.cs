@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class WorldSelection : MonoBehaviour
 {
@@ -10,6 +11,8 @@ public class WorldSelection : MonoBehaviour
     public int currentSelection;
     public int totalWorlds = 7;
     public List<GameObject> planetas;
+
+    public string planetToLoad;
 
     private float smallScale = 3.8725f;
     private float bigScale = 10f;
@@ -24,7 +27,7 @@ public class WorldSelection : MonoBehaviour
     public List<Vector3> planetOriginPositions;
 
     public GameObject worldPanel;
-
+    
     void Start()
     {
         currentSelection = 1;
@@ -100,13 +103,15 @@ public class WorldSelection : MonoBehaviour
             i++;
         }
     }
-    public void planetPressed()
+    public void planetPressed(string whichPlanet)
     {
         if (planetSelected)
             return;
 
         wiScript.hideText();
         planetSelected = true;
+        SceneManager.LoadScene(whichPlanet);
+        
     }
     private void updateButtons()
     {
